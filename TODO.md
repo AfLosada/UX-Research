@@ -1,0 +1,1 @@
+- [ ] investigar sobre el navegante LSD

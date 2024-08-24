@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "5824b0020d46b15b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcd78ede41e16c79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ceb0093558bc9c1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UX/Investigacion/User Journey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a84072f83adcd22",
+    "type": "split",
+    "children": [
+      {
+        "id": "cebd829000a9ddee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1a71ddc52649ca4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "4fcbe30918522f3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09d8a020d123c158",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "9401345b0c382aec",
+    "type": "split",
+    "children": [
+      {
+        "id": "67eca6a98d1e437c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91b1b799f7305358",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UX/Investigacion/User Journey.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a76b6774681e8448",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UX/Investigacion/User Journey.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39ab6092c392bc3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "818f2df456bed344",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UX/Investigacion/User Journey.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ceb0093558bc9c1d",
+  "lastOpenFiles": [
+    "Pasted image 20240824003540.png",
+    "UX/Investigacion/Card Sorting.md",
+    "Pasted image 20240824001236.png",
+    "Pasted image 20240824001153.png",
+    "Pasted image 20240823234726.png",
+    "Pasted image 20240823234719.png",
+    "Pasted image 20240823233321.png",
+    "UX/Investigacion/Benchmarking.md",
+    "UX/Investigacion/User Persona.md",
+    "UX/Investigacion/Design Scope.md",
+    "UX/Investigacion/Investigacion de Problema.md",
+    "UX/Investigacion/Investigacion de Contexto.md",
+    "UX/Investigacion/Investigación.md",
+    "Pasted image 20240823213102.png",
+    "Pasted image 20240823204303.png",
+    "Pasted image 20240823204248.png",
+    "Pasted image 20240823204144.png",
+    "bar-graph (4).png",
+    "UX/Investigacion/Conclusiones.md",
+    "UX/Investigacion/User Journey.md",
+    "UX/Investigacion",
+    "UX",
+    "Appium.md",
+    "Parcial.md",
+    "OpenSSL.md",
+    "Notas reunión PO.md",
+    "TODO.md",
+    "Untitled.md",
+    "Disponibilidad Cloud.md",
+    "Grabación Cloud 1.md",
+    "Arquitectura/Component.md",
+    "Formato Revisión HU.md",
+    "Arquitectura/Component Diagrams.md",
+    "Arquitectura/Views.md",
+    "Arquitectura/UML.md",
+    "Arquitectura/State Machine Diagrams.md",
+    "Arquitectura/Class Diagrams.md",
+    "Arquitectura/Stereotypes.md",
+    "Untitled.canvas",
+    "Agilismo/Semana 2/Historias De Usuario.pdf",
+    "Agilismo/Semana 2/Glosario de Conceptos.pdf",
+    "Agilismo/Semana 2/Historias De Usuario",
+    "Agilismo/Semana 2/class-diagram.zip",
+    "Agilismo/Semana 2",
+    "Arquitectura",
+    "Agilismo"
+  ]
+}
