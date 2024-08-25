@@ -1,0 +1,25 @@
+- Uso App
+	- Crear Usuario
+	- Login como usuario
+	- Tutorial de funcionalidades
+	- Crear Alarma
+	- Borrar Alarma
+	- Desactivar Alarma
+	- Pantalla principal de alarmas
+- Monitoreo de calidad de sueño
+	- Insights de calidad de sueño
+	- Tracking del sueño
+	- Estrategias para mejorar el sueño
+- Integraciones
+	- Integración con calendario
+	- Integración con apps de música
+	- Integración con Spotify
+	- Integración con apps de salud
+- Configuración
+	- Configurar sonido de alarma
+	- Configurar juego de la alarma
+	- Configurar repetición de la alarma
+- Ejecución
+	- Enviar una notificación
+	- Activar Alarma
+	- Juego para desactivar la alarma

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dcd78ede41e16c79",
+        "id": "f19d426191da4dc9",
         "type": "tabs",
         "children": [
           {
-            "id": "ceb0093558bc9c1d",
+            "id": "c29deb2f795d2128",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX/Investigacion/User Journey.md",
+                "file": "UX/Investigacion/Red Route.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UX/Investigacion/User Journey.md",
+                "file": "UX/Investigacion/Red Route.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UX/Investigacion/User Journey.md",
+                "file": "UX/Investigacion/Red Route.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UX/Investigacion/User Journey.md"
+                "file": "UX/Investigacion/Red Route.md"
               }
             }
           }
@@ -146,28 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ceb0093558bc9c1d",
+  "active": "c29deb2f795d2128",
   "lastOpenFiles": [
-    "Pasted image 20240824003540.png",
+    "Pasted image 20240825101131.png",
+    "Pasted image 20240825101111.png",
+    "Pasted image 20240825101021.png",
+    "UX/Investigacion/Red Route.md",
+    "UX/Investigacion/Lista de Funcionalidades.md",
+    "UX/Investigacion/Benchmarking.md",
+    "UX/Investigacion/User Persona.md",
+    "UX/Investigacion/User Journey.md",
+    "UX/Investigacion/Investigación.md",
+    "UX/Investigacion/Investigacion de Problema.md",
+    "UX/Investigacion/Investigacion de Contexto.md",
+    "UX/Investigacion/Design Scope.md",
+    "UX/Investigacion/Conclusiones.md",
     "UX/Investigacion/Card Sorting.md",
+    "Pasted image 20240824003540.png",
     "Pasted image 20240824001236.png",
     "Pasted image 20240824001153.png",
     "Pasted image 20240823234726.png",
     "Pasted image 20240823234719.png",
     "Pasted image 20240823233321.png",
-    "UX/Investigacion/Benchmarking.md",
-    "UX/Investigacion/User Persona.md",
-    "UX/Investigacion/Design Scope.md",
-    "UX/Investigacion/Investigacion de Problema.md",
-    "UX/Investigacion/Investigacion de Contexto.md",
-    "UX/Investigacion/Investigación.md",
     "Pasted image 20240823213102.png",
     "Pasted image 20240823204303.png",
-    "Pasted image 20240823204248.png",
-    "Pasted image 20240823204144.png",
-    "bar-graph (4).png",
-    "UX/Investigacion/Conclusiones.md",
-    "UX/Investigacion/User Journey.md",
     "UX/Investigacion",
     "UX",
     "Appium.md",
@@ -184,8 +186,6 @@
     "Arquitectura/Views.md",
     "Arquitectura/UML.md",
     "Arquitectura/State Machine Diagrams.md",
-    "Arquitectura/Class Diagrams.md",
-    "Arquitectura/Stereotypes.md",
     "Untitled.canvas",
     "Agilismo/Semana 2/Historias De Usuario.pdf",
     "Agilismo/Semana 2/Glosario de Conceptos.pdf",
