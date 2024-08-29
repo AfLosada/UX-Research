@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX/Investigacion/Red Route.md",
+                "file": "UX/Investigacion/Benchmarking.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UX/Investigacion/Red Route.md",
+                "file": "UX/Investigacion/Benchmarking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UX/Investigacion/Red Route.md",
+                "file": "UX/Investigacion/Benchmarking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UX/Investigacion/Red Route.md"
+                "file": "UX/Investigacion/Benchmarking.md"
               }
             }
           }
@@ -148,30 +148,38 @@
   },
   "active": "c29deb2f795d2128",
   "lastOpenFiles": [
+    "UX/Investigacion/Card Sorting.md",
+    "UX/Investigacion/Investigacion de Problema.md",
+    "UX/Investigacion/Investigacion de Contexto.md",
+    "UX/Investigacion/Benchmarking.md",
+    "UX/Investigacion/Lista de Funcionalidades.md",
+    "~$nchmarking.pdf",
+    "UX/Investigacion/Web MVP testing.md",
+    "~$b MVP testing.docx",
+    "Web MVP testing.docx",
+    "~$b MVP testing.pdf",
+    "Web MVP testing.pdf",
+    "UX/Investigacion/Investigación.md",
+    "UX/Investigacion/Red Route.md",
+    "Red Route.pdf",
+    "Lista de Funcionalidades.pdf",
+    "UX/Investigacion/User Persona.md",
+    "User Persona.pdf",
+    "UX/Investigacion/User Journey.md",
+    "User Journey.pdf",
+    "Investigacion de Problema.pdf",
+    "UX/Investigacion/Design Scope.md",
+    "UX/Investigacion/Conclusiones.md",
+    "Pasted image 20240825101911.png",
     "Pasted image 20240825101131.png",
     "Pasted image 20240825101111.png",
     "Pasted image 20240825101021.png",
-    "UX/Investigacion/Red Route.md",
-    "UX/Investigacion/Lista de Funcionalidades.md",
-    "UX/Investigacion/Benchmarking.md",
-    "UX/Investigacion/User Persona.md",
-    "UX/Investigacion/User Journey.md",
-    "UX/Investigacion/Investigación.md",
-    "UX/Investigacion/Investigacion de Problema.md",
-    "UX/Investigacion/Investigacion de Contexto.md",
-    "UX/Investigacion/Design Scope.md",
-    "UX/Investigacion/Conclusiones.md",
-    "UX/Investigacion/Card Sorting.md",
     "Pasted image 20240824003540.png",
     "Pasted image 20240824001236.png",
     "Pasted image 20240824001153.png",
     "Pasted image 20240823234726.png",
     "Pasted image 20240823234719.png",
     "Pasted image 20240823233321.png",
-    "Pasted image 20240823213102.png",
-    "Pasted image 20240823204303.png",
-    "UX/Investigacion",
-    "UX",
     "Appium.md",
     "Parcial.md",
     "OpenSSL.md",
@@ -185,14 +193,6 @@
     "Arquitectura/Component Diagrams.md",
     "Arquitectura/Views.md",
     "Arquitectura/UML.md",
-    "Arquitectura/State Machine Diagrams.md",
-    "Untitled.canvas",
-    "Agilismo/Semana 2/Historias De Usuario.pdf",
-    "Agilismo/Semana 2/Glosario de Conceptos.pdf",
-    "Agilismo/Semana 2/Historias De Usuario",
-    "Agilismo/Semana 2/class-diagram.zip",
-    "Agilismo/Semana 2",
-    "Arquitectura",
-    "Agilismo"
+    "Untitled.canvas"
   ]
 }

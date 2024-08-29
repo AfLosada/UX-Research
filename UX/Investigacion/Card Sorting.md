@@ -2,6 +2,7 @@
 [Mind Map - Miro](https://miro.com/app/board/uXjVKm_j-x0=/)
 https://www.youtube.com/watch?v=eEJFXHDe378
 
+https://youtu.be/j8IeJ1x79b8
 ## User Persona 1 (~ 50años)
 
 ![[Pasted image 20240823234726.png]]
